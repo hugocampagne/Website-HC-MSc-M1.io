@@ -1,0 +1,29 @@
+body{
+    font-family: arial;
+    padding: 0px 30px 30px 30px;
+    align-items: justify;
+    background-color: rgba(0, 0, 0, 0.4); /* Black partially transparent background */
+    color: white;
+    font-weight: bold;
+    background-image: url("https://cdn2.hubspot.net/hubfs/2994193/2016%2004%2008%20190BO-2.jpg");
+    background-repeat: no-repeat;
+    background-size:cover ;
+    height: 100vh;
+    color: white;
+}
+
+a{
+    text-decoration: none;
+}
+
+.background{
+    border:10px;
+    background-color: darkcyan;
+    opacity: .9;
+    width: 95%;
+    border-radius: 1%;
+    padding: 30px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+}

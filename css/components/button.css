@@ -1,0 +1,28 @@
+.flex1:hover{
+width: 300px;
+border: 7px solid darkblue;
+transition: all 1s;
+
+}
+
+.flex2:hover{
+    width: 300px;
+    border: 7px solid lightblue;
+    transition: all 1s;
+    
+}
+
+.flex3:hover{
+    width: 300px;
+    border: 7px solid darkgoldenrod;
+    transition: all 1s;
+    
+}
+
+.flex4:hover{
+    width: 300px;
+    border: 7px solid black;
+    transition: all 1s;
+    
+}
+
